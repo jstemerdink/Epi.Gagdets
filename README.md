@@ -1,4 +1,7 @@
-Epi.Gagdets
-===========
+# A set of gadgets for use in EPiServer 7. 
 
-Gadgets for use within EPiServer projects
+By Jeroen Stemerdink
+
+## Parts
+
+[New Relic](EPi.Gadgets.NewRelic/README.md)
